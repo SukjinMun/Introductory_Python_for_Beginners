@@ -1,2 +1,2 @@
 # Introductory-Python
-Fundamental questions for Python.
+Fundamental questions for Python quesitons for beginners.
